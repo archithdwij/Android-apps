@@ -21,4 +21,4 @@ Terms and Conditions:
 
 Buckle up and wait till you recieve communication from the review team. Keep a tab on this pull request page for comments on your project. Any necessary suggestions will also be provide here. All the best :)
 
-### once your PR get's merged, take some time ⏲️, celebrate 🥳 and share it with the community on slack. 
+### Once your PR get's merged, take some time ⏲️, celebrate 🥳 and share it with the community on slack. 
