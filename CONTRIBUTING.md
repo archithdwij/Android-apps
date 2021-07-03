@@ -3,9 +3,9 @@
 #### DISCLAIMER
 
     1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch. 
-    2. Any type of changes should be carried out only from your local machine or personal github. 
-    3. Do not touch the following file(s)/folder(s) |
-    4. `readme.md` (Inside the repository. Your project specific readme is different.) 
+    2. Any type of changes should be carried out only from your local machine or personal github account. 
+    3. Do not touch the following file(s)/folder(s) 
+        - `readme.md` (Inside the repository. Your project specific readme is different.) 
         - `.all-contributors-src`
         - `CONTRIBUTING.md` - For your reference 
         - `.github` folder 
