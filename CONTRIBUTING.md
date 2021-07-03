@@ -15,11 +15,11 @@
 `As a developer who can enhance the experience of the troubled WFH individual. :P`
 
 
-Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) for detailed instructions.
+Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) which will help gather ideas.
 
 ### Note for PR proposals
 
-Kindly utilise the templates provided in the `.github` directory of the main branch to create relative PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
+Kindly utilise the template provided in the `.github` directory of the main branch to create relative PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
 
 For proposing a PR with a new piece of software, utilise PR template `pull_request_template.md` using GitHub API.
 
