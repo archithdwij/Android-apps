@@ -15,6 +15,6 @@ There are various things you can add in summary !
 # DEMO VIDEO LINK 
 - [DEMO VIDEO](paste your link here )
 
-# YOU CAN FOLLOW ANY STRUCTURE INSIDE this folder  PROJECT FOLDER !
+## YOU CAN FOLLOW ANY STRUCTURE INSIDE this  PROJECT FOLDER !
 
 
