@@ -10,7 +10,7 @@
        - CONTRIBUTING.md - For your reference 
        - .github folder
 
-### How can you contribute to Crio Open Source in #IBelieveinDoing Remote Working Tools Edition?
+#### How can you contribute to Crio Open Source in #IBelieveinDoing Remote Working Tools Edition?
 
 `As a developer who can enhance the experience of the troubled WFH individual. :P`
 
