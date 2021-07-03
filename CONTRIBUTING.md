@@ -1,6 +1,6 @@
 ## Contribution Guidelines
 
-### DISCLAIMER
+#### DISCLAIMER
 
     1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
     2. Any type of changes should be carried out only from your local machine or personal github account. 
