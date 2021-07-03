@@ -17,7 +17,7 @@
 
 Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) which will help gather ideas.
 
-### Note for PR proposals
+### Note for PR Proposals
 
 Kindly utilise the template provided in the `.github` directory of the main branch to create relative PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
 
