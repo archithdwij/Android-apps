@@ -5,7 +5,7 @@
 There are various things you can add in summary.
 - How you got Idea to make this
 - How it works
-- Languages you have used to make this !
+- Languages you have used to make this
 - What are it's applications
 - etc
 
