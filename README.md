@@ -10,21 +10,23 @@
 
 
 # Introduction
-You can write Android apps in your preferable programming language using an IDE called Android Studio.
+An Android app is a software application running on the Android platform. Because the Android platform is built for mobile devices, a typical Android app is designed for a smartphone or a tablet PC running on the Android OS. You can write Android apps in your preferable programming language using a commonly used IDE called Android Studio.
 
 References To get started :
 - [Build Your First Android App in Java ](https://developer.android.com/codelabs/build-your-first-android-app)
 
-# Steps to contribute 
+# Regarding Submissions 
 
-### 1. Fork this repo !
+Please refere to `contributing.md` within the same folder for all the submission guidelines. It contains the documentation process/Demo video to assist you.
+
+<!--### 1. Fork this repo !
   ![img](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-25-36.png)
   
 ### 2. After forking , Made a new folder  
  ![img2](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-25-59.png)
  ![img3](https://github.com/Crio-WFH/demo/blob/main/dont%20delete%20this%20file/Screenshot%20from%202021-07-03%2013-26-20.png)
  
-### 3. See [Folder name](https://github.com/Username-demo/Android-apps/tree/main/Project%20name) to view further structure 
+### 3. See [Folder name](https://github.com/Username-demo/Android-apps/tree/main/Project%20name) to view further structure -->
 
  
 # Contributors ✨
