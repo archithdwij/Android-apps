@@ -1,4 +1,4 @@
-# [Preoject name]
+# [Project name]
 
 ## Summary 
 
