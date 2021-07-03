@@ -15,6 +15,6 @@ There are various things you can add in summary.
 ### Demo Video Link
 - [DEMO VIDEO](paste your link here)
 
-`Feel free to add additional points to your readme along with the one's above. Also, make sure your folder structure is organized.`
+`Feel free to add additional points to your readme along with the one's above. Also, make sure your folder structure is organized :)`
 
 
