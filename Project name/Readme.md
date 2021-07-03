@@ -9,10 +9,10 @@ There are various things you can add in summary.
 - What are it's applications
 - etc
 
-### SCREENSHOTS OF IT'S WORKING 
-- SCREENSHOTS
+### Screenshots of the extension/software's working 
+- You can attach files(Images) by dragging and dropping, selecting or pasting them.
 
-### DEMO VIDEO LINK 
+### Demo Video Link
 - [DEMO VIDEO](paste your link here)
 
 `Feel free to add additional points to your readme along with the one's above. Also, make sure your folder structure is organized.`
