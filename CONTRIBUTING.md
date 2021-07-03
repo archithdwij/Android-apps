@@ -1,6 +1,6 @@
-# Contribution Guidelines
+## Contribution Guidelines
 
-#### DISCLAIMER
+### DISCLAIMER
 
     1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
     2. Any type of changes should be carried out only from your local machine or personal github account. 
@@ -17,7 +17,7 @@
 
 Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) for detailed instructions.
 
-#### Note for PR proposals
+### Note for PR proposals
 
 Kindly utilise the templates provided in the `.github` directory of the main branch to create relative PRs. You can also go adventurous if you have something fun in your mind, but kindly maintain a similar workflow by taking the already available templates as a reference.
 
