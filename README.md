@@ -8,6 +8,15 @@
 
 <a href="https://twitter.com/crio_do"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crio_do?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@crio_do"></a>
 
+#### DISCLAIMER
+
+    1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
+    2. Any type of changes should be carried out only from your local machine or personal github account. 
+    3. Do not touch the following file(s)/folder(s) 
+        - readme.md (Inside the repository. Your project specific readme is different.) 
+        - .all-contributors-src
+        - CONTRIBUTING.md - For your reference 
+        - .github folder
 
 # Introduction
 An Android app is a software application running on the Android platform. Because the Android platform is built for mobile devices, a typical Android app is designed for a smartphone or a tablet PC running on the Android OS. You can write Android apps in your preferable programming language using a commonly used IDE called Android Studio.
