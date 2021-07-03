@@ -7,7 +7,7 @@ There are various things you can add in summary.
 - How it works
 - Languages you have used to make this
 - What are it's applications
-- etc
+- Etc
 
 ### Screenshots of the extension/software's working 
 - You can attach files(Images) by dragging and dropping, selecting or pasting them.
